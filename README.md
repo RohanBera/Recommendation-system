@@ -2,6 +2,8 @@
 
 Enter your watched list of anime (List of anime IDs) and this program will return the animes you can watch next.
 
+![Mandatory_md_image](network.png)
+
 Recommendation is based on watch data of thousands of other users 
 
 ## Dataset
