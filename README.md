@@ -12,4 +12,4 @@ I took the dataset from kaggle.
 
 This was extracted HuMaNely from "My Anime List" 
 
-To understand more about how the weights were awarded to the recommended anime nodes, go through the pdf attached.
+Some changed were made to the dataset. To understand the changes made in dataset and about how the weights were awarded to the recommended anime nodes, go through the pdf attached.
