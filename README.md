@@ -8,7 +8,7 @@ Recommendation is based on watch data of thousands of other users
 
 I took the dataset from kaggle. 
 
-![Dataset](https://www.kaggle.com/hernan4444/anime-recommendation-database-2020)
+[Dataset](https://www.kaggle.com/hernan4444/anime-recommendation-database-2020)
 
 This was extracted HuMaNely from "My Anime List" 
 
